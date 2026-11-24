@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Explainable Machine Learning for Predicting Self-Reported Sleep Duration",
+    "category": "Ongoing research · University students in Bangladesh",
+    "description": "Currently working on a research paper examining how timing-specific smartphone behaviours and academic-lifestyle factors relate to the prediction of self-reported sleep duration among university students in Bangladesh.",
+    "technologies": [
+      "Explainable Machine Learning",
+      "Smartphone Behaviour",
+      "Academic-Lifestyle Factors"
+    ],
+    "link": ""
+  },
+  {
+    "title": "Personal Assistant",
+    "category": "Java GUI",
+    "description": "Developed a Java-based personal assistant application with a graphical user interface.",
+    "technologies": [
+      "Java",
+      "GUI"
+    ],
+    "link": ""
+  },
+  {
+    "title": "Tic-Tac-Toe Game",
+    "category": "Java",
+    "description": "Built a GUI-based Tic-Tac-Toe game and implemented game logic and player interaction.",
+    "technologies": [
+      "Java",
+      "GUI",
+      "Game Logic"
+    ],
+    "link": ""
+  },
+  {
+    "title": "Campus Scene Visualization",
+    "category": "OpenGL · C++",
+    "description": "Created an animated campus environment featuring rain, sky transitions, moving vehicles, birds, and environmental animations.",
+    "technologies": [
+      "C++",
+      "OpenGL",
+      "Animation"
+    ],
+    "link": ""
+  },
+  {
+    "title": "C++ Console-Based Applications",
+    "category": "Academic coursework",
+    "description": "Developed academic console applications using C++ and applied programming fundamentals to implement application logic.",
+    "technologies": [
+      "C++",
+      "Programming Fundamentals"
+    ],
+    "link": ""
+  }
+]

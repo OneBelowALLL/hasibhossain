@@ -1,0 +1,1 @@
+Copy your portrait photo into this folder and name it exactly hasib-profile.jpg. The Home page will display it automatically. If your image is PNG, change the image src in index.html accordingly.
